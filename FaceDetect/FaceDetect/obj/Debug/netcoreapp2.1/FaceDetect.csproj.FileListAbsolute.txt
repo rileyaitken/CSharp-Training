@@ -1,0 +1,11 @@
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.deps.json
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.runtimeconfig.json
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.runtimeconfig.dev.json
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.dll
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.csprojAssemblyReference.cache
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.csproj.CoreCompileInputs.cache
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.AssemblyInfoInputs.cache
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.AssemblyInfo.cs
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\bin\Debug\netcoreapp2.1\FaceDetect.pdb
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.dll
+C:\Users\Riley Aitken\source\repos\FaceDetect\FaceDetect\obj\Debug\netcoreapp2.1\FaceDetect.pdb

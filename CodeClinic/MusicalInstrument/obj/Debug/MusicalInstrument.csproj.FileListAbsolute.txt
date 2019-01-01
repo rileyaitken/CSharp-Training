@@ -1,0 +1,13 @@
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\bin\Debug\MusicalInstrument.exe.config
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\bin\Debug\MusicalInstrument.exe
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\bin\Debug\MusicalInstrument.pdb
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\bin\Debug\NAudio.dll
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\bin\Debug\NAudio.xml
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\obj\Debug\MusicalInstrument.csprojAssemblyReference.cache
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\obj\Debug\MusicalInstrument.Form1.resources
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\obj\Debug\MusicalInstrument.Properties.Resources.resources
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.GenerateResource.cache
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.CoreCompileInputs.cache
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.CopyComplete
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\obj\Debug\MusicalInstrument.exe
+C:\Users\Riley Aitken\source\repos\CodeClinic\MusicalInstrument\obj\Debug\MusicalInstrument.pdb

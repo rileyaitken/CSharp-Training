@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetect": {
+      "commandName": "Project",
+      "commandLineArgs": "2effbc3d27c544a0827df23ab1c37903 \"C:\\Users\\Riley Aitken\\Downloads\\spud.jpg\""
+    }
+  }
+}
